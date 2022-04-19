@@ -1,21 +1,6 @@
 # mywebsite
 Code for 11056 front-end website
-<!DOCTYPE html> 
-<html>    
-<head> 
-    <meta name="viewport" content="with=device-width, initial-scale=1.0"> 
-    <title>Canberra's Art Biennial</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="preconnect">
-    <link href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
-</head>
-<body> 
-    <section class="header">
-        <nav> 
-            <a href="index.htm"><img src="images/background.jpeg"></a>
+ <a href="index.htm"><img src="images/background.jpeg"></a>
             <div class="nav-links" id="navLinks">
                 <i class="fa fa-times" onclick="hideMenu()"></i>
                 <ul>
